@@ -1,2 +1,2 @@
 timetracker client<br>
-written in c++, qt
+written in c++, qt<br>
